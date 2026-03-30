@@ -31,7 +31,7 @@ public class PetClinicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PetClinicApplication.class, args);
-		System.out.println("add new line");
+		System.out.println("add second line");
 	}
 
 }
